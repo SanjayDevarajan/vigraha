@@ -1,5 +1,3 @@
 README
 
-Java application 
-
-To test github...
+Java application To test github...
